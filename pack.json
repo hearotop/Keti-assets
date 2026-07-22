@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0",
+  "id": "legacy-starter",
+  "name": "Keti 在线资源",
+  "version": "1.0.0",
+  "license": "unknown",
+  "source": null,
+  "status": "online",
+  "resource_roots": [
+    {"path": "ppt", "type": "ppt-template"},
+    {"path": "images", "type": "image"}
+  ],
+  "notes": "迁移自核心 assets。确认每项资源的许可证后，才能打包发布或复制到公开交付物。"
+}
